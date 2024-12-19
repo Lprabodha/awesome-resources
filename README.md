@@ -32,6 +32,7 @@
 ## AWS Learning Resources
 - [AWS Skill Builder](https://skillbuilder.aws/)
 - [AWS Free Tier](https://aws.amazon.com/free/)
+- [AWS Whitepapers](https://aws.amazon.com/whitepapers/)
 
 ## Typing Games
 - [ZType](https://zty.pe/)
